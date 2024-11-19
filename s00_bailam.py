@@ -8,10 +8,11 @@ hi(name,gender)
    https://replit.com/@NamG1/toya03hinamegender
 
 01 lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
-02a tao github repo, mo kiemtra tep s00_bailam.py, va lay diachi/url aka githubrepourl
+02a tao github repo, mo kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl tro den bailam nay
 
-02b dan diachi githubrepourl tu trang web duoiday
-    https://forms.gle/6AYqW1jN3uFGZt2v6
+02b dan diachi githubbailamurl tu trang web duoiday
+    https://forms.gle/yJLsZ5pke3dyq3786
+  
 
 --- debai / problem
 Hay viet ham hi(name, gender) xuat ra cau chao theo mota benduoi
